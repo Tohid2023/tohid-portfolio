@@ -35,7 +35,7 @@ const projects = [
       "Machine Learning",
       "Tailwind CSS",
     ],
-    link: "#",
+    link: "https://ai-startup-builder-one.vercel.app/",
     github: "https://github.com/Tohid2023/AI-STARTUP-BUILDER",
   }
 ];
